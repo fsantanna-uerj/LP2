@@ -9,11 +9,11 @@ class Rect {
     int x, y;
     int w, h;
 
-    Rect (int xx, int yy, int ww, int hh) {
-        this.x = xx;
-        this.y = yy;
-        this.w = ww;
-        this.h = hh;
+    Rect (int x, int y, int w, int h) {
+        this.x = x;
+        this.y = y;
+        this.w = w;
+        this.h = h;
     }
 
     void print () {
