@@ -6,10 +6,8 @@ typedef struct {
 } Rect;
 
 void print (Rect* r) {
-    printf (
-        "Retangulo de tamanho (%d,%d) na posicao (%d,%d).\n",
-        r->x,r->y, r->w,r->h
-    );
+  printf("Retangulo de tamanho (%d,%d) na posicao (%d,%d).\n",
+    r->w,r->h, r->x,r->y);
 }
 
 void main (void) {
