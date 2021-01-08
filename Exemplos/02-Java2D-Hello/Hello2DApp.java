@@ -5,19 +5,19 @@ import javax.swing.*;
 public class Hello2DApp {
     public static void main (String[] args) {
         Hello2DFrame frame = new Hello2DFrame();
-        frame.addWindowListener (
-            new WindowAdapter() {
-                public void windowClosing (WindowEvent e) {
-                    System.exit(0);
-                }
-            }
-        );
         frame.setVisible(true);
     }
 }
 
 class Hello2DFrame extends JFrame {
     public Hello2DFrame () {
+        this.addWindowListener (
+            new WindowAdapter() {
+                public void windowClosing (WindowEvent e) {
+                    System.exit(0);
+                }
+            }
+        );
         this.setTitle("Java2D - Hello World!");
         this.setSize(350, 350);
     }

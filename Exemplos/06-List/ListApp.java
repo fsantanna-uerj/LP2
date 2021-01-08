@@ -16,9 +16,6 @@ class ListFrame extends JFrame {
     Random rand = new Random();
 
     ListFrame () {
-        this.setTitle("Lista de Retangulos");
-        this.setSize(350, 350);
-
         this.addWindowListener (
             new WindowAdapter() {
                 public void windowClosing (WindowEvent e) {
@@ -34,6 +31,9 @@ class ListFrame extends JFrame {
                 }
             }
         );
+
+        this.setTitle("Lista de Retangulos");
+        this.setSize(350, 350);
 
         for (int i=0; i<4; i++) {
             int v1 = rand.nextInt(350);

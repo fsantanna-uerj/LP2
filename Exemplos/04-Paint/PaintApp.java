@@ -5,13 +5,6 @@ import javax.swing.*;
 class PaintApp {
     public static void main (String[] args) {
         PaintFrame frame = new PaintFrame();
-        frame.addWindowListener (
-            new WindowAdapter() {
-                public void windowClosing (WindowEvent e) {
-                    System.exit(0);
-                }
-            }
-        );
         frame.setVisible(true);
     }
 }
@@ -20,9 +13,15 @@ class PaintFrame extends JFrame {
     Rect r1;
 
     PaintFrame () {
+        this.addWindowListener (
+            new WindowAdapter() {
+                public void windowClosing (WindowEvent e) {
+                    System.exit(0);
+                }
+            }
+        );
         this.setTitle("Painting Figures");
         this.setSize(350, 350);
-
         this.r1 = new Rect(50,50, 100,30);
     }
 
