@@ -19,6 +19,7 @@ class Rect {
     }
 
     void paint (Graphics g) {
-        g.drawRect(this.x,this.y, this.w,this.h);
+        Graphics2D g2d = (Graphics2D) g;
+        g2d.drawRect(this.x,this.y, this.w,this.h);
     }
 }
