@@ -2,32 +2,46 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.ArrayList;
+import java.util.Random;
 
 class ListApp {
     public static void main (String[] args) {
         ListFrame frame = new ListFrame();
-        frame.addWindowListener (
-            new WindowAdapter() {
-                public void windowClosing (WindowEvent e) {
-                    System.exit(0);
-                }
-            }
-        );
         frame.setVisible(true);
     }
 }
 
 class ListFrame extends JFrame {
     ArrayList<Rect> rs = new ArrayList<Rect>();
+    Random rand = new Random();
 
     ListFrame () {
         this.setTitle("Lista de Retangulos");
         this.setSize(350, 350);
 
-        rs.add(new Rect( 50, 50, 100, 30));
-        rs.add(new Rect( 50,200,  10, 20));
-        rs.add(new Rect(200, 50,  50, 50));
-        rs.add(new Rect(200,200,  50,100));
+        this.addWindowListener (
+            new WindowAdapter() {
+                public void windowClosing (WindowEvent e) {
+                    System.exit(0);
+                }
+            }
+        );
+
+        this.addKeyListener (
+            new KeyAdapter() {
+                public void keyPressed (KeyEvent e) {
+                    System.out.println("KEY PRESSED");
+                }
+            }
+        );
+
+        for (int i=0; i<4; i++) {
+            int v1 = rand.nextInt(350);
+            int v2 = rand.nextInt(350);
+            int v3 = rand.nextInt(50);
+            int v4 = rand.nextInt(50);
+            rs.add(new Rect(v1,v2, v3,v4));
+        }
     }
 
     public void paint (Graphics g) {
