@@ -4,18 +4,18 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Random;
 
-class ListApp {
+class SimpleApp {
     public static void main (String[] args) {
-        ListFrame frame = new ListFrame();
+        SimpleFrame frame = new SimpleFrame();
         frame.setVisible(true);
     }
 }
 
-class ListFrame extends JFrame {
+class SimpleFrame extends JFrame {
     ArrayList<Rect> rs = new ArrayList<Rect>();
     Random rand = new Random();
 
-    ListFrame () {
+    SimpleFrame () {
         this.addWindowListener (
             new WindowAdapter() {
                 public void windowClosing (WindowEvent e) {
@@ -24,23 +24,16 @@ class ListFrame extends JFrame {
             }
         );
 
-        this.addKeyListener (
-            new KeyAdapter() {
-                public void keyPressed (KeyEvent evt) {
-                    if (evt.getKeyChar() == 'r') {
-                        int x = rand.nextInt(350);
-                        int y = rand.nextInt(350);
-                        int w = rand.nextInt(50);
-                        int h = rand.nextInt(50);
-                        rs.add(new Rect(x,y, w,h));
-                        repaint();  // outer.repaint()
-                    }
-                }
-            }
-        );
-
         this.setTitle("Lista de Retangulos");
         this.setSize(350, 350);
+
+        for (int i=0; i<4; i++) {
+            int x = rand.nextInt(350);
+            int y = rand.nextInt(350);
+            int w = rand.nextInt(50);
+            int h = rand.nextInt(50);
+            rs.add(new Rect(x,y, w,h));
+        }
     }
 
     public void paint (Graphics g) {
