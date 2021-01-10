@@ -2,9 +2,9 @@ package figures;
 
 import java.awt.*;
 
-public class Rect {
+public class Rect extends Figure {
     int x, y;
-    int width, height;
+    int w, h;
 
     public Rect (int x, int y, int w, int h) {
         this.x = x;

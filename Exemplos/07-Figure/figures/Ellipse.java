@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Ellipse2D.Double;
 
-public class Ellipse {
+public class Ellipse extends Figure {
     int x, y;
     int w, h;
 
