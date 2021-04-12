@@ -5,7 +5,6 @@ import javax.swing.*;
 public class Hello2DApp {
     public static void main (String[] args) {
         Hello2DFrame frame = new Hello2DFrame();
-        frame.setVisible(true);
     }
 }
 
@@ -20,6 +19,7 @@ class Hello2DFrame extends JFrame {
         );
         this.setTitle("Java2D - Hello World!");
         this.setSize(350, 350);
+        this.setVisible(true);
     }
 
     public void paint (Graphics g) {
