@@ -2,15 +2,9 @@ package figures;
 
 import java.awt.*;
 
-public class Rect {
-    int x, y;
-    int w, h;
-
+public class Rect extends Figure {
     public Rect (int x, int y, int w, int h) {
-        this.x = x;
-        this.y = y;
-        this.w = w;
-        this.h = h;
+        super(x,y,w,h);
     }
 
     public void print () {
