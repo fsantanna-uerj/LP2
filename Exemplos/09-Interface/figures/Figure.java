@@ -1,8 +1,8 @@
 package figures;
 
-import ipaintable.IPaintable;
+import ivisible.IVisible;
 
-public abstract class Figure implements IPaintable {
+public abstract class Figure implements IVisible {
     public int x, y;
     public int w, h;
 
@@ -16,5 +16,9 @@ public abstract class Figure implements IPaintable {
     public void drag (int dx, int dy) {
         this.x += dx;
         this.y += dy;
+    }
+
+    public boolean clicked (int x, int y) {
+        return (this.x<=x && x<=this.x+this.w && this.y<=y && y<=this.y+this.h);
     }
 }
