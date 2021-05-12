@@ -1,8 +1,6 @@
 package figures;
 
 import java.awt.*;
-import java.awt.geom.Ellipse2D;
-import java.awt.geom.Ellipse2D.Double;
 
 public class Ellipse extends Figure {
     public Ellipse (int x, int y, int w, int h) {
@@ -14,8 +12,15 @@ public class Ellipse extends Figure {
             this.w, this.h, this.x, this.y);
     }
 
-    public void paint (Graphics g) {
+    public void paint (Graphics g, boolean focused) {
         Graphics2D g2d = (Graphics2D) g;
-        g2d.draw(new Ellipse2D.Double(this.x,this.y, this.w,this.h));
+
+        if (focused) {
+            g2d.setPaint(Color.RED);
+            g2d.fillOval(this.x-2,this.y-2, this.w+4,this.h+4);
+        }
+
+        g2d.setPaint(Color.BLACK);
+        g2d.fillOval(this.x,this.y, this.w,this.h);
     }
 }
