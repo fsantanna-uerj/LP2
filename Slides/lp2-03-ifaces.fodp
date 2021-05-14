@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1489</meta:editing-cycles><meta:editing-duration>P81DT10H49M10S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2021-05-11T21:05:00.947504213</dc:date><meta:document-statistic meta:object-count="859"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../../EDL/usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1493</meta:editing-cycles><meta:editing-duration>P81DT12H21M39S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2021-05-12T10:17:43.530333761</dc:date><meta:document-statistic meta:object-count="1135"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../../EDL/usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-309</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-3219</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">34440</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21630</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-983</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-421</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">28870</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">22970</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">34</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -2709,6 +2709,8 @@
    <draw:layer draw:name="backgroundobjects"/>
    <draw:layer draw:name="controls"/>
    <draw:layer draw:name="measurelines"/>
+   <draw:layer draw:name="DrawnInSlideshow"/>
+   <draw:layer draw:name="DrawnInSlideshow"/>
    <draw:layer draw:name="DrawnInSlideshow"/>
    <draw:layer draw:name="DrawnInSlideshow"/>
    <draw:layer draw:name="DrawnInSlideshow"/>
@@ -17313,6 +17315,30 @@
     <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
      <text:p/>
     </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
     <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="28" presentation:class="page"/>
      <draw:frame presentation:style-name="pr20" draw:text-style-name="P25" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
@@ -17943,6 +17969,600 @@
     <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
      <text:p/>
     </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-2.752cm" svg:y="5.814cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
     <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="29"/>
      <draw:frame presentation:style-name="pr31" draw:text-style-name="P7" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm">
@@ -18120,10 +18740,7 @@
     <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id133" draw:id="id133" draw:layer="layout" svg:x1="14.785cm" svg:y1="11.123cm" svg:x2="17.093cm" svg:y2="9.483cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id135" draw:id="id135" draw:layer="layout" svg:x1="22.712cm" svg:y1="9.834cm" svg:x2="21.816cm" svg:y2="14.224cm">
-     <text:p/>
-    </draw:line>
-    <draw:frame presentation:style-name="pr37" draw:text-style-name="P49" xml:id="id136" draw:id="id136" draw:layer="layout" svg:width="8.906cm" svg:height="4.827cm" svg:x="17.038cm" svg:y="14.224cm">
+    <draw:frame presentation:style-name="pr37" draw:text-style-name="P49" xml:id="id135" draw:id="id135" draw:layer="layout" svg:width="8.906cm" svg:height="4.827cm" svg:x="17.038cm" svg:y="14.224cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T51">typedef struct</text:span><text:span text:style-name="T52"> Rect {</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">Figure super;</text:span></text:p>
@@ -18132,369 +18749,6 @@
       <text:p text:style-name="P48"><text:span text:style-name="T52">} Rect;</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.372cm" svg:y1="15.766cm" svg:x2="25.33cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.33cm" svg:y1="15.766cm" svg:x2="25.31cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.31cm" svg:y1="15.766cm" svg:x2="25.206cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.206cm" svg:y1="15.766cm" svg:x2="25.123cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.123cm" svg:y1="15.766cm" svg:x2="25.041cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.041cm" svg:y1="15.766cm" svg:x2="24.958cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.958cm" svg:y1="15.766cm" svg:x2="24.896cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.896cm" svg:y1="15.766cm" svg:x2="24.792cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.792cm" svg:y1="15.766cm" svg:x2="24.689cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.689cm" svg:y1="15.766cm" svg:x2="24.544cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.544cm" svg:y1="15.766cm" svg:x2="24.523cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.523cm" svg:y1="15.766cm" svg:x2="24.441cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.441cm" svg:y1="15.766cm" svg:x2="24.378cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.378cm" svg:y1="15.766cm" svg:x2="24.337cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.337cm" svg:y1="15.766cm" svg:x2="24.296cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.296cm" svg:y1="15.766cm" svg:x2="24.234cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.234cm" svg:y1="15.766cm" svg:x2="24.213cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.213cm" svg:y1="15.766cm" svg:x2="24.13cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.13cm" svg:y1="15.766cm" svg:x2="24.089cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.089cm" svg:y1="15.766cm" svg:x2="24.027cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.027cm" svg:y1="15.766cm" svg:x2="23.985cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.985cm" svg:y1="15.766cm" svg:x2="23.902cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.902cm" svg:y1="15.766cm" svg:x2="23.778cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.778cm" svg:y1="15.766cm" svg:x2="23.737cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.737cm" svg:y1="15.766cm" svg:x2="23.613cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.613cm" svg:y1="15.828cm" svg:x2="23.53cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.53cm" svg:y1="15.828cm" svg:x2="23.489cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.489cm" svg:y1="15.828cm" svg:x2="23.426cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.426cm" svg:y1="15.828cm" svg:x2="23.385cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.828cm" svg:x2="23.364cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.364cm" svg:y1="15.828cm" svg:x2="23.385cm" svg:y2="15.848cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.848cm" svg:x2="23.385cm" svg:y2="15.869cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.869cm" svg:x2="23.426cm" svg:y2="15.869cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.426cm" svg:y1="15.869cm" svg:x2="23.468cm" svg:y2="15.91cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.468cm" svg:y1="15.91cm" svg:x2="23.53cm" svg:y2="15.931cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.53cm" svg:y1="15.931cm" svg:x2="23.571cm" svg:y2="15.931cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.571cm" svg:y1="15.931cm" svg:x2="23.592cm" svg:y2="15.972cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.592cm" svg:y1="15.972cm" svg:x2="23.654cm" svg:y2="15.993cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.654cm" svg:y1="15.993cm" svg:x2="23.695cm" svg:y2="15.993cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.695cm" svg:y1="15.993cm" svg:x2="23.758cm" svg:y2="16.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.758cm" svg:y1="16.034cm" svg:x2="23.778cm" svg:y2="16.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.778cm" svg:y1="16.034cm" svg:x2="23.778cm" svg:y2="16.097cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.778cm" svg:y1="16.097cm" svg:x2="23.799cm" svg:y2="16.097cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.799cm" svg:y1="16.097cm" svg:x2="23.82cm" svg:y2="16.117cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.82cm" svg:y1="16.117cm" svg:x2="23.82cm" svg:y2="16.138cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.82cm" svg:y1="16.138cm" svg:x2="23.799cm" svg:y2="16.117cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.799cm" svg:y1="16.117cm" svg:x2="23.778cm" svg:y2="16.097cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.778cm" svg:y1="16.097cm" svg:x2="23.737cm" svg:y2="16.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.737cm" svg:y1="16.055cm" svg:x2="23.695cm" svg:y2="16.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.695cm" svg:y1="16.034cm" svg:x2="23.654cm" svg:y2="16.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.654cm" svg:y1="16.034cm" svg:x2="23.613cm" svg:y2="15.993cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.613cm" svg:y1="15.993cm" svg:x2="23.551cm" svg:y2="15.972cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.551cm" svg:y1="15.972cm" svg:x2="23.53cm" svg:y2="15.972cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.53cm" svg:y1="15.972cm" svg:x2="23.489cm" svg:y2="15.931cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.489cm" svg:y1="15.931cm" svg:x2="23.468cm" svg:y2="15.91cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.468cm" svg:y1="15.91cm" svg:x2="23.406cm" svg:y2="15.848cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.406cm" svg:y1="15.848cm" svg:x2="23.385cm" svg:y2="15.828cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.828cm" svg:x2="23.385cm" svg:y2="15.786cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.786cm" svg:x2="23.385cm" svg:y2="15.766cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="15.766cm" svg:x2="23.406cm" svg:y2="15.745cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.406cm" svg:y1="15.745cm" svg:x2="23.406cm" svg:y2="15.724cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.406cm" svg:y1="15.724cm" svg:x2="23.426cm" svg:y2="15.703cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.426cm" svg:y1="15.703cm" svg:x2="23.468cm" svg:y2="15.641cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.468cm" svg:y1="15.641cm" svg:x2="23.489cm" svg:y2="15.6cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.489cm" svg:y1="15.6cm" svg:x2="23.509cm" svg:y2="15.6cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.509cm" svg:y1="15.6cm" svg:x2="23.53cm" svg:y2="15.6cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.53cm" svg:y1="15.6cm" svg:x2="23.551cm" svg:y2="15.6cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.551cm" svg:y1="15.6cm" svg:x2="23.571cm" svg:y2="15.6cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.571cm" svg:y1="15.6cm" svg:x2="23.571cm" svg:y2="15.579cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.571cm" svg:y1="15.579cm" svg:x2="23.592cm" svg:y2="15.559cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.592cm" svg:y1="15.559cm" svg:x2="23.613cm" svg:y2="15.559cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.613cm" svg:y1="15.559cm" svg:x2="23.633cm" svg:y2="15.559cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.095cm" svg:y1="10.055cm" svg:x2="23.178cm" svg:y2="10.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.178cm" svg:y1="10.055cm" svg:x2="23.24cm" svg:y2="10.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.24cm" svg:y1="10.055cm" svg:x2="23.261cm" svg:y2="10.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.261cm" svg:y1="10.055cm" svg:x2="23.282cm" svg:y2="10.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.282cm" svg:y1="10.055cm" svg:x2="23.344cm" svg:y2="10.055cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.344cm" svg:y1="10.055cm" svg:x2="23.385cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.385cm" svg:y1="10.034cm" svg:x2="23.406cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.406cm" svg:y1="10.034cm" svg:x2="23.489cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.489cm" svg:y1="10.034cm" svg:x2="23.551cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.551cm" svg:y1="10.034cm" svg:x2="23.654cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.654cm" svg:y1="10.034cm" svg:x2="23.737cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.737cm" svg:y1="10.034cm" svg:x2="23.84cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.84cm" svg:y1="10.034cm" svg:x2="23.902cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.902cm" svg:y1="10.034cm" svg:x2="23.965cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="23.965cm" svg:y1="10.034cm" svg:x2="24.068cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.068cm" svg:y1="10.034cm" svg:x2="24.089cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.089cm" svg:y1="10.034cm" svg:x2="24.13cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.13cm" svg:y1="10.034cm" svg:x2="24.192cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.192cm" svg:y1="10.034cm" svg:x2="24.254cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.254cm" svg:y1="10.034cm" svg:x2="24.296cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.296cm" svg:y1="10.034cm" svg:x2="24.316cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.316cm" svg:y1="10.034cm" svg:x2="24.42cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.42cm" svg:y1="10.034cm" svg:x2="24.461cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.461cm" svg:y1="10.034cm" svg:x2="24.523cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.523cm" svg:y1="10.034cm" svg:x2="24.565cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.565cm" svg:y1="10.034cm" svg:x2="24.606cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.606cm" svg:y1="10.034cm" svg:x2="24.647cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.647cm" svg:y1="10.034cm" svg:x2="24.71cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.71cm" svg:y1="10.034cm" svg:x2="24.792cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.792cm" svg:y1="10.034cm" svg:x2="24.834cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.834cm" svg:y1="10.034cm" svg:x2="24.916cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.916cm" svg:y1="10.034cm" svg:x2="24.958cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.958cm" svg:y1="10.034cm" svg:x2="24.999cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="24.999cm" svg:y1="10.034cm" svg:x2="25.061cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.061cm" svg:y1="10.034cm" svg:x2="25.103cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.103cm" svg:y1="10.034cm" svg:x2="25.144cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.144cm" svg:y1="10.034cm" svg:x2="25.186cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.186cm" svg:y1="10.034cm" svg:x2="25.227cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.227cm" svg:y1="10.034cm" svg:x2="25.248cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.248cm" svg:y1="10.034cm" svg:x2="25.268cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.268cm" svg:y1="10.034cm" svg:x2="25.289cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.289cm" svg:y1="10.034cm" svg:x2="25.31cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.31cm" svg:y1="10.034cm" svg:x2="25.351cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.351cm" svg:y1="10.034cm" svg:x2="25.372cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.372cm" svg:y1="10.034cm" svg:x2="25.392cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.392cm" svg:y1="10.034cm" svg:x2="25.413cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.413cm" svg:y1="10.034cm" svg:x2="25.434cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.434cm" svg:y1="10.034cm" svg:x2="25.455cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
-    <draw:line draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:x1="25.455cm" svg:y1="10.034cm" svg:x2="25.475cm" svg:y2="10.034cm">
-     <text:p/>
-    </draw:line>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
       <anim:par smil:begin="next">
@@ -18529,15 +18783,8 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id134" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id135" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id136" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id135" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18566,7 +18813,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr42" draw:text-style-name="P51" xml:id="id139" draw:id="id139" draw:layer="layout" svg:width="14.371cm" svg:height="6.332cm" svg:x="13.028cm" svg:y="6.964cm">
+    <draw:frame presentation:style-name="pr42" draw:text-style-name="P51" xml:id="id138" draw:id="id138" draw:layer="layout" svg:width="14.371cm" svg:height="6.332cm" svg:x="13.028cm" svg:y="6.964cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T52">Rect* rect_new (</text:span><text:span text:style-name="T51">int</text:span><text:span text:style-name="T52"> x, </text:span><text:span text:style-name="T51">int</text:span><text:span text:style-name="T52"> y, ...) {</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">Rect* this = </text:span><text:span text:style-name="T51">malloc</text:span><text:span text:style-name="T52">(</text:span><text:span text:style-name="T51">sizeof</text:span><text:span text:style-name="T52">(Rect));</text:span></text:p>
@@ -18577,7 +18824,7 @@
       <text:p text:style-name="P48"><text:span text:style-name="T52">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr43" draw:text-style-name="P49" xml:id="id140" draw:id="id140" draw:layer="layout" svg:width="14.369cm" svg:height="6.253cm" svg:x="13.028cm" svg:y="13.439cm">
+    <draw:frame presentation:style-name="pr43" draw:text-style-name="P49" xml:id="id139" draw:id="id139" draw:layer="layout" svg:width="14.369cm" svg:height="6.253cm" svg:x="13.028cm" svg:y="13.439cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T51">void</text:span><text:span text:style-name="T52"> main (</text:span><text:span text:style-name="T51">void</text:span><text:span text:style-name="T52">) {</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">...</text:span></text:p>
@@ -18588,7 +18835,7 @@
       <text:p text:style-name="P48"><text:span text:style-name="T52">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P52" xml:id="id141" draw:id="id141" draw:layer="layout" svg:width="7.083cm" svg:height="2.37cm" svg:x="2.888cm" svg:y="17.504cm">
+    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P52" xml:id="id140" draw:id="id140" draw:layer="layout" svg:width="7.083cm" svg:height="2.37cm" svg:x="2.888cm" svg:y="17.504cm">
      <text:list text:style-name="L1">
       <text:list-item>
        <text:p text:style-name="P21"><text:s/><text:span text:style-name="T55">8 bytes por objeto</text:span></text:p>
@@ -18599,7 +18846,7 @@
      </text:list>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:frame presentation:style-name="pr44" draw:text-style-name="P49" xml:id="id138" draw:id="id138" draw:layer="layout" svg:width="11.979cm" svg:height="4.575cm" svg:x="0.715cm" svg:y="12.066cm">
+    <draw:frame presentation:style-name="pr44" draw:text-style-name="P49" xml:id="id137" draw:id="id137" draw:layer="layout" svg:width="11.979cm" svg:height="4.575cm" svg:x="0.715cm" svg:y="12.066cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T52">Figure_vtable rect_vtable = {</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">rect_print,</text:span></text:p>
@@ -18608,7 +18855,7 @@
       <text:p text:style-name="P48"><text:span text:style-name="T52">};</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr41" draw:text-style-name="P49" xml:id="id137" draw:id="id137" draw:layer="layout" svg:width="11.974cm" svg:height="4.933cm" svg:x="0.7cm" svg:y="6.964cm">
+    <draw:frame presentation:style-name="pr41" draw:text-style-name="P49" xml:id="id136" draw:id="id136" draw:layer="layout" svg:width="11.974cm" svg:height="4.933cm" svg:x="0.7cm" svg:y="6.964cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T51">typedef struct</text:span><text:span text:style-name="T52"> Figure {</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">Figure_vtable* vtable;</text:span></text:p>
@@ -18619,6 +18866,13 @@
     </draw:frame>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id136" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -18647,13 +18901,6 @@
         </anim:par>
        </anim:par>
       </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id141" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
@@ -18670,7 +18917,7 @@
       <text:p>O Problema</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id142" draw:id="id142" draw:layer="layout" svg:width="12.103cm" svg:height="3.605cm" svg:x="7.949cm" svg:y="4.8cm">
+    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id141" draw:id="id141" draw:layer="layout" svg:width="12.103cm" svg:height="3.605cm" svg:x="7.949cm" svg:y="4.8cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">interface</text:span><text:span text:style-name="T42"> IVisible {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42"> paint (Graphics g);</text:span></text:p>
@@ -18678,7 +18925,7 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr47" draw:text-style-name="P49" xml:id="id143" draw:id="id143" draw:layer="layout" svg:width="13.382cm" svg:height="5.825cm" svg:x="0.245cm" svg:y="10.776cm">
+    <draw:frame presentation:style-name="pr47" draw:text-style-name="P49" xml:id="id142" draw:id="id142" draw:layer="layout" svg:width="13.382cm" svg:height="5.825cm" svg:x="0.245cm" svg:y="10.776cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> Figure </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> IVisible {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">int</text:span><text:span text:style-name="T42"> x, y;</text:span></text:p>
@@ -18689,7 +18936,7 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr48" draw:text-style-name="P49" xml:id="id145" draw:id="id145" draw:layer="layout" svg:width="13.557cm" svg:height="5.151cm" svg:x="14.185cm" svg:y="10.776cm">
+    <draw:frame presentation:style-name="pr48" draw:text-style-name="P49" xml:id="id144" draw:id="id144" draw:layer="layout" svg:width="13.557cm" svg:height="5.151cm" svg:x="14.185cm" svg:y="10.776cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> Button </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> IVisible {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">int</text:span><text:span text:style-name="T42"> idx;</text:span></text:p>
@@ -18699,16 +18946,16 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id144" draw:id="id144" draw:layer="layout" svg:x1="13.992cm" svg:y1="8.405cm" svg:x2="10.718cm" svg:y2="10.776cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id143" draw:id="id143" draw:layer="layout" svg:x1="13.992cm" svg:y1="8.405cm" svg:x2="10.718cm" svg:y2="10.776cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id146" draw:id="id146" draw:layer="layout" svg:x1="14.019cm" svg:y1="8.405cm" svg:x2="17.293cm" svg:y2="10.776cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id145" draw:id="id145" draw:layer="layout" svg:x1="14.019cm" svg:y1="8.405cm" svg:x2="17.293cm" svg:y2="10.776cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr30" draw:text-style-name="P23" xml:id="id147" draw:id="id147" draw:layer="layout" svg:x1="14.793cm" svg:y1="13.805cm" svg:x2="9.436cm" svg:y2="14.53cm">
+    <draw:line draw:style-name="gr30" draw:text-style-name="P23" xml:id="id146" draw:id="id146" draw:layer="layout" svg:x1="14.793cm" svg:y1="13.805cm" svg:x2="9.436cm" svg:y2="14.53cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr31" draw:text-style-name="P55" xml:id="id148" draw:id="id148" draw:layer="layout" svg:width="12.485cm" svg:height="2.619cm" svg:x="7.758cm" svg:y="17.701cm">
+    <draw:custom-shape draw:style-name="gr31" draw:text-style-name="P55" xml:id="id147" draw:id="id147" draw:layer="layout" svg:width="12.485cm" svg:height="2.619cm" svg:x="7.758cm" svg:y="17.701cm">
      <text:p text:style-name="P54"><text:span text:style-name="T11">Métodos em </text:span><text:span text:style-name="T57">offsets</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T11">diferentes</text:span></text:p>
      <text:p text:style-name="P54"><text:span text:style-name="T11">impossibilitam despacho </text:span><text:span text:style-name="T11">dinâmico. </text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
@@ -18718,26 +18965,33 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id141" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id142" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id143" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id144" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id145" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id145" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id146" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18746,13 +19000,6 @@
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id147" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id148" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18773,7 +19020,7 @@
       <text:p>O Problema</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr49" draw:text-style-name="P49" xml:id="id150" draw:id="id150" draw:layer="layout" svg:width="9.215cm" svg:height="3.53cm" svg:x="0.745cm" svg:y="10.776cm">
+    <draw:frame presentation:style-name="pr49" draw:text-style-name="P49" xml:id="id149" draw:id="id149" draw:layer="layout" svg:width="9.215cm" svg:height="3.53cm" svg:x="0.745cm" svg:y="10.776cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> CA </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> IA {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42"> ma (</text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42">);</text:span></text:p>
@@ -18781,27 +19028,27 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id151" draw:id="id151" draw:layer="layout" svg:x1="9.792cm" svg:y1="8.405cm" svg:x2="6.518cm" svg:y2="10.776cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id150" draw:id="id150" draw:layer="layout" svg:x1="9.792cm" svg:y1="8.405cm" svg:x2="6.518cm" svg:y2="10.776cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id154" draw:id="id154" draw:layer="layout" svg:x1="17.919cm" svg:y1="8.405cm" svg:x2="21.193cm" svg:y2="10.776cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id153" draw:id="id153" draw:layer="layout" svg:x1="17.919cm" svg:y1="8.405cm" svg:x2="21.193cm" svg:y2="10.776cm">
      <text:p/>
     </draw:line>
-    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id149" draw:id="id149" draw:layer="layout" svg:width="7.903cm" svg:height="3.605cm" svg:x="5.898cm" svg:y="4.8cm">
+    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id148" draw:id="id148" draw:layer="layout" svg:width="7.903cm" svg:height="3.605cm" svg:x="5.898cm" svg:y="4.8cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T39">interface</text:span><text:span text:style-name="T40"> IA {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T40"><text:s text:c="2"/></text:span><text:span text:style-name="T39">void</text:span><text:span text:style-name="T40"> ma (</text:span><text:span text:style-name="T39">void</text:span><text:span text:style-name="T40">);</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T40">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id152" draw:id="id152" draw:layer="layout" svg:width="7.903cm" svg:height="3.605cm" svg:x="14.199cm" svg:y="4.801cm">
+    <draw:frame presentation:style-name="pr46" draw:text-style-name="P49" xml:id="id151" draw:id="id151" draw:layer="layout" svg:width="7.903cm" svg:height="3.605cm" svg:x="14.199cm" svg:y="4.801cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T39">interface</text:span><text:span text:style-name="T40"> IB {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T40"><text:s text:c="2"/></text:span><text:span text:style-name="T39">void</text:span><text:span text:style-name="T40"> mb (</text:span><text:span text:style-name="T39">void</text:span><text:span text:style-name="T40">);</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T40">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr49" draw:text-style-name="P49" xml:id="id153" draw:id="id153" draw:layer="layout" svg:width="9.215cm" svg:height="3.53cm" svg:x="17.946cm" svg:y="10.776cm">
+    <draw:frame presentation:style-name="pr49" draw:text-style-name="P49" xml:id="id152" draw:id="id152" draw:layer="layout" svg:width="9.215cm" svg:height="3.53cm" svg:x="17.946cm" svg:y="10.776cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> CB </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">IB {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42"> mb (</text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42">);</text:span></text:p>
@@ -18809,7 +19056,7 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr50" draw:text-style-name="P49" xml:id="id155" draw:id="id155" draw:layer="layout" svg:width="10.354cm" svg:height="3.832cm" svg:x="8.823cm" svg:y="15.225cm">
+    <draw:frame presentation:style-name="pr50" draw:text-style-name="P49" xml:id="id154" draw:id="id154" draw:layer="layout" svg:width="10.354cm" svg:height="3.832cm" svg:x="8.823cm" svg:y="15.225cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> CAB </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> IA, </text:span><text:span text:style-name="T42">IB {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42"> ma (</text:span><text:span text:style-name="T41">void</text:span><text:span text:style-name="T42">);</text:span></text:p>
@@ -18818,10 +19065,10 @@
       <text:p text:style-name="P53"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id156" draw:id="id156" draw:layer="layout" svg:x1="10.793cm" svg:y1="8.405cm" svg:x2="14.002cm" svg:y2="15.225cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id155" draw:id="id155" draw:layer="layout" svg:x1="10.793cm" svg:y1="8.405cm" svg:x2="14.002cm" svg:y2="15.225cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id157" draw:id="id157" draw:layer="layout" svg:x1="16.419cm" svg:y1="8.405cm" svg:x2="14.002cm" svg:y2="15.225cm">
+    <draw:line draw:style-name="gr12" draw:text-style-name="P23" xml:id="id156" draw:id="id156" draw:layer="layout" svg:x1="16.419cm" svg:y1="8.405cm" svg:x2="14.002cm" svg:y2="15.225cm">
      <text:p/>
     </draw:line>
     <anim:par presentation:node-type="timing-root">
@@ -18829,16 +19076,23 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id149" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id148" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id150" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id149" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id150" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id151" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18848,28 +19102,21 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id152" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id153" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id154" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id154" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id155" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id156" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id157" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18894,15 +19141,15 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p xml:id="id159" text:id="id159"><text:span text:style-name="T22">Uma </text:span><text:span text:style-name="T18">itable</text:span><text:span text:style-name="T22"> para cada interface implementada</text:span></text:p>
+        <text:p xml:id="id158" text:id="id158"><text:span text:style-name="T22">Uma </text:span><text:span text:style-name="T18">itable</text:span><text:span text:style-name="T22"> para cada interface implementada</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id160" text:id="id160"><text:span text:style-name="T22">Busca em uma tabela hash a </text:span><text:span text:style-name="T18">itable</text:span><text:span text:style-name="T22"> correspondente ao </text:span><text:span text:style-name="T22">método sendo chamado.</text:span></text:p>
+        <text:p xml:id="id159" text:id="id159"><text:span text:style-name="T22">Busca em uma tabela hash a </text:span><text:span text:style-name="T18">itable</text:span><text:span text:style-name="T22"> correspondente ao </text:span><text:span text:style-name="T22">método sendo chamado.</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr51" draw:text-style-name="P49" xml:id="id161" draw:id="id161" draw:layer="layout" svg:width="13.803cm" svg:height="8.475cm" svg:x="13.679cm" svg:y="10.507cm">
+    <draw:frame presentation:style-name="pr51" draw:text-style-name="P49" xml:id="id160" draw:id="id160" draw:layer="layout" svg:width="13.803cm" svg:height="8.475cm" svg:x="13.679cm" svg:y="10.507cm">
      <draw:text-box>
       <text:p text:style-name="P48"><text:span text:style-name="T41">t</text:span><text:span text:style-name="T41">y</text:span><text:span text:style-name="T41">p</text:span><text:span text:style-name="T41">e</text:span><text:span text:style-name="T41">d</text:span><text:span text:style-name="T41">e</text:span><text:span text:style-name="T41">f</text:span><text:span text:style-name="T41"> </text:span><text:span text:style-name="T41">s</text:span><text:span text:style-name="T41">t</text:span><text:span text:style-name="T41">r</text:span><text:span text:style-name="T41">u</text:span><text:span text:style-name="T41">c</text:span><text:span text:style-name="T41">t</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">F</text:span><text:span text:style-name="T42">i</text:span><text:span text:style-name="T42">g</text:span><text:span text:style-name="T42">u</text:span><text:span text:style-name="T42">r</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">{</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T42"><text:s/></text:span><text:span text:style-name="T42"><text:s/></text:span><text:span text:style-name="T42">F</text:span><text:span text:style-name="T42">i</text:span><text:span text:style-name="T42">g</text:span><text:span text:style-name="T42">u</text:span><text:span text:style-name="T42">r</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">_</text:span><text:span text:style-name="T42">v</text:span><text:span text:style-name="T42">t</text:span><text:span text:style-name="T42">a</text:span><text:span text:style-name="T42">b</text:span><text:span text:style-name="T42">l</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">*</text:span><text:span text:style-name="T42"> </text:span><text:span text:style-name="T42">v</text:span><text:span text:style-name="T42">t</text:span><text:span text:style-name="T42">a</text:span><text:span text:style-name="T42">b</text:span><text:span text:style-name="T42">l</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">;</text:span></text:p>
@@ -18916,7 +19163,7 @@
       <text:p text:style-name="P48"><text:span text:style-name="T42">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr52" draw:text-style-name="P49" xml:id="id158" draw:id="id158" draw:layer="layout" svg:width="12.282cm" svg:height="6.977cm" svg:x="0.561cm" svg:y="10.507cm">
+    <draw:frame presentation:style-name="pr52" draw:text-style-name="P49" xml:id="id157" draw:id="id157" draw:layer="layout" svg:width="12.282cm" svg:height="6.977cm" svg:x="0.561cm" svg:y="10.507cm">
      <draw:text-box>
       <text:p text:style-name="P53"><text:span text:style-name="T41">class</text:span><text:span text:style-name="T42"> Figure </text:span><text:span text:style-name="T41">implements</text:span><text:span text:style-name="T42"> IVisible {</text:span></text:p>
       <text:p text:style-name="P53"><text:span text:style-name="T42"><text:s text:c="2"/></text:span><text:span text:style-name="T42">...</text:span></text:p>
@@ -18933,7 +19180,14 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id158" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id157" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id158" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18946,15 +19200,8 @@
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id160" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id161" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id160" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -19294,6 +19541,582 @@
       <text:p><text:span text:style-name="T5">Módulo 03 - Interfaces</text:span></text:p>
      </draw:text-box>
     </draw:frame>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
+     <text:p/>
+    </draw:polygon>
     <draw:polygon draw:style-name="gr27" draw:text-style-name="P27" draw:layer="DrawnInSlideshow" svg:width="0cm" svg:height="0cm" svg:x="-3.932cm" svg:y="10.552cm" svg:viewBox="0 0 0 0" draw:points="0,0">
      <text:p/>
     </draw:polygon>
